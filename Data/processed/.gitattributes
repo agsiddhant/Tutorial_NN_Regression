@@ -1,0 +1,8 @@
+y_test.txt filter=lfs diff=lfs merge=lfs -text
+y_train_1000Sims.txt filter=lfs diff=lfs merge=lfs -text
+y_train_100Sims.txt filter=lfs diff=lfs merge=lfs -text
+x_cv.txt filter=lfs diff=lfs merge=lfs -text
+x_test.txt filter=lfs diff=lfs merge=lfs -text
+x_train_1000Sims.txt filter=lfs diff=lfs merge=lfs -text
+x_train_100Sims.txt filter=lfs diff=lfs merge=lfs -text
+y_cv.txt filter=lfs diff=lfs merge=lfs -text
